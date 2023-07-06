@@ -6,6 +6,10 @@ How to build a web3 lever trading protocol
 
 A base ERC721 NFT contract make permission for Fstar protocol staking .
 
+# More information
+[Websit](https://fstar.fi/)
+[Document](https://docs.fstar.fi/fstar.fi/basics/what-is-fstar.fi)
+
 ## Fstar Contact List :
 - Core Contract
     - Handle Leverage Trade
